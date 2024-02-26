@@ -1,4 +1,4 @@
-# Machine Learning Models and Pipelines
+# Machine Learning Models
 
 ## Logistic Regression Model
 ### Task 1: Data Preprocessing and Model Training
